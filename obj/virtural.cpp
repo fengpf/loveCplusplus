@@ -40,5 +40,5 @@ int main(){
 
   cout<<"Circle area="<<pc->Point::area()<<endl;//静态联编
 
-    return 0;
+  return 0;
 }
